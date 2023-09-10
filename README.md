@@ -1,2 +1,5 @@
-# FundamentosDeSistemasComputacionais
- Fundamentos de Sistemas Computacionais é uma disciplina que explora os princípios básicos da computação, incluindo hardware, software, arquiteturas de computadores e sistemas operacionais, proporcionando uma compreensão essencial do funcionamento dos sistemas de informação.
+# Fundamentos De Sistemas Computacionais
+* Professor: Sergio Johann
+* Código: 98800-04
+* Semestre: 2022/2
+* Nota: 8.0
